@@ -1,0 +1,4 @@
+zenml[server]==0.84.0
+feedparser>=6.0.10
+requests
+pandas
