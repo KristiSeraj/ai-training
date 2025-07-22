@@ -2,3 +2,4 @@
 .zen
 __pycache__
 .idea
+.env
