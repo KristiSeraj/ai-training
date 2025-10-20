@@ -13,8 +13,7 @@ A simple pipeline that searches GitHub for Python repositories, extracts their d
 
 ### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
-test
+Hello world
 ```
 
 ### 2. Start databases
