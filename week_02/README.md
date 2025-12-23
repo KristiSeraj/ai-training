@@ -13,7 +13,7 @@ A simple pipeline that searches GitHub for Python repositories, extracts their d
 
 ### 1. Install dependencies
 ```bash
-python3 main.py
+test
 ```
 
 ### 2. Start databases
